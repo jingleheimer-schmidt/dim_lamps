@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 20APR2023
+  Changes:
+    - initial release to the mod portal
+  Features:
+    - added startup setting to modify the intensity of all lamp lights
