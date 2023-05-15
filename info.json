@@ -1,0 +1,13 @@
+{
+  "name": "dim_lamps",
+  "version": "0.0.1",
+  "title": "Subtle Lighting",
+  "author": "asher_sky",
+  "contact": "",
+  "homepage": "",
+  "description": "Modifies the intensity of lamps, creating a more gradual falloff to the darkness beyond",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"base"
+	]
+}
