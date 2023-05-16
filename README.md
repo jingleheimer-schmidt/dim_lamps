@@ -13,9 +13,15 @@ This mod adds a startup setting to control the intensity of lamp lights. This is
 
 ---------------------
 # Gallery
+33% Intensity (default)
+
 ![33% Intensity (default)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/33.png)
 
+50% Intensity
+
 ![50% Intensity](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/50.png)
+
+100% Intensity (original)
 
 ![100% Intensity (original)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/100.png)
 
