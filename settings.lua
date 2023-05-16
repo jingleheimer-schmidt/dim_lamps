@@ -3,7 +3,7 @@ local brightness_multiplier = {
     type = "string-setting",
     name = "brightness_multiplier",
     setting_type = "startup",
-    default_value = "0.5",
+    default_value = "0.33",
     allowed_values = {
         "1",
         "0.75",
