@@ -1,3 +1,5 @@
 
 .vscode/settings.json
 locale/.DS_Store
+.vscode/launch.json
+.DS_Store
