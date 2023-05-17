@@ -15,19 +15,26 @@ This mod adds a startup setting to control the intensity of lamp lights. This is
 # Gallery
 33% Intensity (default)
 
-![33% Intensity (default)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/33.png)
+![33% Intensity (default)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/4553d4314c4aaf3b90d059912886a27664dc1f5e/gallery/medium/33.png)
 
 50% Intensity
 
-![50% Intensity](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/50.png)
+![50% Intensity](https://github.com/jingleheimer-schmidt/dim_lamps/blob/4553d4314c4aaf3b90d059912886a27664dc1f5e/gallery/medium/50.png)
 
 100% Intensity (original)
 
-![100% Intensity (original)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/247e63aa55f41a729184825a9c45cdb5c30d6b28/gallery/100.png)
+![100% Intensity (original)](https://github.com/jingleheimer-schmidt/dim_lamps/blob/4553d4314c4aaf3b90d059912886a27664dc1f5e/gallery/medium/100.png)
 
 ---------------------
 ## Companion Mods
-Subtle Lighting is a companion mod to [Glowing Trees](https://mods.factorio.com/mod/glowing_trees)
+Subtle Lighting is a companion mod to:
+[Glowing Trees](https://mods.factorio.com/mod/glowing_trees)
+
+and is recommended with:
+[Train Trails](https://mods.factorio.com/mod/train-trails)
+[Auto Color Lamps](https://mods.factorio.com/mod/auto-color-lamps)
+[Dark Nights](https://mods.factorio.com/mod/dark-nights)
+
 
 ---------------------
 # Compatibility
