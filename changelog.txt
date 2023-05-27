@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 27MAY2023
+  Changes:
+    - resolved error when loading with mods that add lamps with no light definition
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 17MAY2023
   Changes:
