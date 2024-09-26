@@ -1,5 +1,5 @@
 
-require ("util")
+require("util")
 
 local intensity_multiplier = tonumber(settings.startup["brightness_multiplier"].value)
 
