@@ -42,5 +42,5 @@ There are currently no known mod compatibility issues. To report a compatibility
 
 ---------------------
 # License
-Subtle Lighting (Dim Lamps) © 2023 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
+Subtle Lighting (Dim Lamps) © 2024 by asher_sky is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
