@@ -35,6 +35,11 @@ and is recommended with:
 [Auto Color Lamps](https://mods.factorio.com/mod/auto-color-lamps)
 [Dark Nights](https://mods.factorio.com/mod/dark-nights)
 
+---------------------
+# Translation
+Help translate Subtle Lighting to more languages: https://crowdin.com/project/factorio-mods-localization
+Currently available locale:
+🇺🇸 English (en), 🇪🇸 Catalan (ca), 🇨🇿 Czech (cs), 🇩🇪 German (de), 🇫🇷 French (fr), 🇵🇱 Polish (pl), 🇷🇺 Russian (ru), 🇺🇦 Ukrainian (uk)
 
 ---------------------
 # Compatibility
