@@ -3,6 +3,11 @@ Version: 0.0.5
   Changes:
     - updated for Factorio 2.0
     - updated mod description
+  Locale:
+    - updated Catalan (ca) locale from Crowdin
+    - updated French (fr) locale from Crowdin
+    - updated Russian (ru) locale from Crowdin
+    - added Japanese (ja) locale from Crowdin
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 08OCT2024
