@@ -23,6 +23,15 @@ for _, lamp in pairs(data.raw.lamp) do
             adjust_light_intensity(light)
         end
     end
+    local light_when_colored = lamp.light_when_colored
+    if light_when_colored then
+        if light_when_colored[1] then
+            for _, light_instance in pairs(light_when_colored) do
+                adjust_light_intensity(light_instance)
+            end
+        else
+            adjust_light_intensity(light_when_colored)
+        end
     end
     if lamp.glow_color_intensity then
         lamp.glow_color_intensity = lamp.glow_color_intensity * intensity_multiplier
