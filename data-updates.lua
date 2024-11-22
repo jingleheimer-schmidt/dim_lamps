@@ -10,7 +10,7 @@ end
 
 ---@param light data.LightDefinition.struct
 local function adjust_light_flicker(light)
-    light.flicker_interval = 50
+    light.flicker_interval = 75
     light.flicker_min_modifier = .9
     light.flicker_max_modifier = 1
     light.offset_flicker = true
