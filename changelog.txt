@@ -3,6 +3,7 @@ Version: 0.0.5
   Changes:
     - updated for Factorio 2.0
     - updated mod description
+    - added a very subtle animation effect to the light intensity
   Locale:
     - updated Catalan (ca) locale from Crowdin
     - updated French (fr) locale from Crowdin
