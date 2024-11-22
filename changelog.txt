@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
+Date: 21NOV2024
   Changes:
     - updated for Factorio 2.0
     - updated mod description
