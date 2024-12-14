@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 14DEC2024
+  Locale:
+    - updated Catalan (ca) locale from Crowdin
+    - updated French (fr) locale from Crowdin
+    - updated Russian (ru) locale from Crowdin
+    - updated Ukrainian (uk) locale from Crowdin
+---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 21NOV2024
   Changes:
